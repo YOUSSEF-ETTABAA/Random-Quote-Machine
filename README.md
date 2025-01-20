@@ -6,7 +6,7 @@ The **Random Quote Machine** is a web application that displays random quotes wi
 
 ## Demo
 
-You can view the live demo of the application at: [Random Quote Machine](https://github.com/YOUSSEF-ETTABAA/Random-Quote-Machine)
+You can view the live demo of the application at: [Random Quote Machine](https://youssef-ettabaa.github.io/Random-Quote-Machine/)
 
 ## Technologies Used
 
